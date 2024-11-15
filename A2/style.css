@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-color: rgb(178, 247, 252);
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+    color: rgb(22, 129, 133)
+}
+
+nav{
+    background-color: white;
+    padding-bottom: 15px;
+    box-shadow: 0 4px 8px 5px rgb(121, 121, 121);
+    border-radius: 5px;
+}
+
+header{
+    color: rgb(57, 170,173, 1);
+    font-size: large;
+}
+
+form{
+    color: rgb(57, 170,173, 1);
+}
+
+.container{
+    background-color: rgb(229, 243,248, 1);
+    margin-left: 150px;    
+    margin-right: 150px; 
+    margin-top: 20px;  
+    display: flex;
+    border-radius: 5px;
+}
+
+.item{
+    background-color: rgb(157, 223,227, 1);
+    margin: 10px;
+    transition: all 1s;
+}
